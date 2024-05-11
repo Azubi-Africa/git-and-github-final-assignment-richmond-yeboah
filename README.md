@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  Pharmaceuticals Data Analysis             |  BI project             | [link to repo](https://github.com/richmond-yeboah/Pharmaceuticals-Data-Analysis)       |
+| 2 |  Walmart Stores Sales             |  Walmart project             | [link to repo](https://github.com/richmond-yeboah/Walmart-Stores-Sales)       |
+| 3 |  Sakila database querying             |  Sakila project             | [link to repo](https://github.com/richmond-yeboah/Sakila-database-querying)       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
